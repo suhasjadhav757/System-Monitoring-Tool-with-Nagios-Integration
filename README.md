@@ -32,13 +32,9 @@ python monitor.py
 
 The `config.ini` file allows you to customize monitoring thresholds for CPU, memory, and disk usage.
 
-## Screenshots
+## Screenshot
 
-![Screenshot 1](screenshots/screenshot1.png)
-*Caption for Screenshot 1*
-
-![Screenshot 2](screenshots/screenshot2.png)
-*Caption for Screenshot 2*
+![monitor](https://github.com/suhasjadhav757/System-Monitoring-Tool-with-Nagios-Integration/assets/169549873/e1d406b4-0178-4c66-965f-804b699bd017)
 
 ## Acknowledgements
 
